@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+    {% for post in site.posts %}
+      <div class="small-12 medium-12 large-12 columns card">
+          <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <div class="post-container">
+            {{ post.content }}
+          </div>
+      </div>
+    {% endfor %}

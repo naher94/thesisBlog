@@ -1,0 +1,19 @@
+.card{
+  border-left: 10px solid #ECECEC;
+  background-color: #f7f7f7;
+  margin-bottom: 50px;
+}
+
+.post-link{
+  font-size: 36px;
+  color: #666666;
+}
+
+.post-meta{
+  padding-left: 10px;
+}
+
+h2{
+  padding-top: 15px;
+  font-weight: 700px;
+}
