@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "More Formal Research"
-date:   2017-01-25 12:00:00 -0500
+date:   2017-01-31 12:00:00 -0500
 categories:
 ---
 
